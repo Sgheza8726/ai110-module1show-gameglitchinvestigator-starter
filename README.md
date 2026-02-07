@@ -27,7 +27,7 @@ It wrote the code, ran away, and now the game is unplayable.
 
 Here's the fixed game running successfully with all features working:
 
-*final_game_demo.png*
+![Alt text](final_game_demo.png)
 
 **What's different:**
 - ✅ "New Game" button resets the game without freezing
